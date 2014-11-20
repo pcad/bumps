@@ -2,12 +2,11 @@
 *   Main Configuration
 */
 
-'use strict';
-
 require.config({
     baseUrl: './scripts',
 });
 
-require(['app'], function (app) {
+require(['app', 'data/db'], function (app, db) {
+    console.log(db);
     app.init();
 });
