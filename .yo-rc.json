@@ -1,0 +1,30 @@
+{
+  "generator-yeogurt": {
+    "config": {
+      "projectName": "bumps-chart",
+      "versionControl": "git",
+      "useServer": true,
+      "dbOption": "none",
+      "useSession": false,
+      "singlePageApplication": true,
+      "jsFramework": "backbone",
+      "jsTemplate": "handlebars",
+      "jsOption": "requirejs",
+      "cssOption": "sass",
+      "sassSyntax": "scss",
+      "useBourbon": true,
+      "cssFramework": "foundation",
+      "useGA": false,
+      "jshint": true,
+      "extras": [
+        "useFontAwesome",
+        "useModernizr"
+      ],
+      "useJsdoc": true,
+      "useKss": true,
+      "useTesting": true,
+      "testFramework": "jasmine"
+    },
+    "version": "0.12.3"
+  }
+}

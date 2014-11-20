@@ -1,0 +1,19 @@
+{
+    "name": "bumps-chart",
+    "version": "0.0.1",
+    "dependencies": {
+        "jquery": "latest",
+        "backbone": "~1.1.2",
+        "lodash": "latest",
+        "handlebars": "~1.3.0",
+        "foundation": "~5.3.3",
+        "modernizr": "latest",
+        "normalize-scss": "~3.0.1",
+        "bourbon": "~3.2.1",
+        "font-awesome": "latest",
+        "requirejs": "latest",
+        "text": "latest",
+        "d3": "latest"
+    },
+  "devDependencies": {}
+}
