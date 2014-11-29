@@ -64,9 +64,9 @@ $fa-font-path: '../bower_components/font-awesome/fonts';
 // [endinjector]
 
 .main-container {
-    padding-top: 200px;
+    padding-top: 20px;
     text-align: center;
-    width: 500px;
+    width: 1024px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -107,4 +107,20 @@ $fa-font-path: '../bower_components/font-awesome/fonts';
     background: #fff8e2;
     color: #000;
     padding: 0.5em 0;
+}
+
+.bumps-chart{
+}
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
 }

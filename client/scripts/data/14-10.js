@@ -1,7 +1,7 @@
 define([], function(){
   return [
-  {"Name":'MD Anderson',"Count":18132,"Rank":1},
   {"Name":'UCSF',"Count":14637,"Rank":2},
+  {"Name":'MD Anderson',"Count":18132,"Rank":1},
   {"Name":'U of Michigan',"Count":14584,"Rank":3},
   {"Name":'MGH',"Count":13985,"Rank":4},
   {"Name":'Stanford',"Count":13354,"Rank":5},
